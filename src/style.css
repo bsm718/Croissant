@@ -4,5 +4,9 @@ body {
 }
 
 a {
-  padding: 20px;
+  padding: 30px;
+}
+
+img {
+  margin-bottom: 30px;
 }
